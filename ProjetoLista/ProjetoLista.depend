@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1575255610 source:c:\users\ukzge\desktop\projetolista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"listaContatos.h"
+
+1574880577 c:\users\ukzge\desktop\projetolista\listacontatos.h
+
+1575397771 source:c:\users\ukzge\desktop\projetolista\listacontatos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"listaContatos.h"
+
+1574880617 source:c:\users\augusto\desktop\projetolista\listacontatos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"listaContatos.h"
+
+1574880577 c:\users\augusto\desktop\projetolista\listacontatos.h
+
+1574880586 source:c:\users\augusto\desktop\projetolista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"listaContatos.h"
+
